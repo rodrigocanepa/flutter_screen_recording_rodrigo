@@ -54,7 +54,6 @@ class FlutterScreenRecording {
           autoRunOnBoot: true,
           allowWifiLock: true,
         ),
-        printDevLog: true,
       );
     }
   }
